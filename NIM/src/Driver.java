@@ -2,7 +2,6 @@
 //Project 5 - MACHINE LEARNING
 //Professor Scott Thede
 //April 15th, 2018
-
 //Main class: This project will involve writing an algorithm
 //to teach the computer to win the game of NIM. 
 import java.io.FileNotFoundException;
